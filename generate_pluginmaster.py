@@ -88,7 +88,7 @@ def trim_manifest(plugin):
     return {k: plugin[k] for k in TRIMMED_KEYS if k in plugin}
 
 def last_update():
-    with open('pluginmaster.json') as f:
+    with open('pluginmaster.json', encoding='utf-8') as f:
         master = json.load(f)
 
     for plugin in master:
@@ -98,7 +98,7 @@ def last_update():
         if 'LastUpdate' not in plugin or modified != int(plugin['LastUpdate']):
             plugin['LastUpdate'] = str(modified)
 
-    with open('pluginmaster.json', 'w') as f:
+    with open('pluginmaster.json', 'w', encoding='utf-8') as f:
         json.dump(master, f, indent=4)
 
 if __name__ == '__main__':
