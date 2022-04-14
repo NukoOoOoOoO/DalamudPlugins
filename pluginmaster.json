@@ -1,0 +1,31 @@
+[
+    {
+        "Author": "Aireil",
+        "Name": "FF Logs Viewer",
+        "Punchline": "View FF Logs ranking percentiles in-game.",
+        "Description": "\u5728\u6e38\u620f\u91cc\u67e5\u770b\u73a9\u5bb6\u5728FFLogs\u4e0a\u7684\u6570\u636e\u7684\u63d2\u4ef6\u3002",
+        "Changelog": "- Add support for Endsinger Extreme\n- Fix search and host name for the Chinese client (by LittleNightmare)",
+        "InternalName": "FFLogsViewer",
+        "AssemblyVersion": "1.5.7.2",
+        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "FFLogs",
+            "FFLog",
+            "FFLo",
+            "FFL"
+        ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
+        "ImageUrls": [
+            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1649915827"
+    }
+]
