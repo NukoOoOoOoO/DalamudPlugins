@@ -99,7 +99,7 @@ def last_update():
             plugin['LastUpdate'] = str(modified)
 
     with open('pluginmaster.json', 'w', encoding='utf-8') as f:
-        json.dump(master, f, indent=4)
+        json.dump(master, f, indent=4, ensure_ascii=False)
 
 if __name__ == '__main__':
     main()
