@@ -4,10 +4,10 @@
         "Name": "FF Logs Viewer",
         "Punchline": "View FF Logs ranking percentiles in-game.",
         "Description": "在游戏里查看玩家在FFLogs上的数据的插件。",
-        "Changelog": "- Add support for Endsinger Extreme\n- Fix search and host name for the Chinese client (by LittleNightmare)",
+        "Changelog": "- 2.0.4.0: Enable context menu button again.\n- 2.0.4.1: Warn when a metric is not supported by an encounter.",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "1.5.7.2",
-        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+        "AssemblyVersion": "2.0.4.1",
+        "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
         "ApplicableVersion": "any",
         "Tags": [
             "FFLogs",
@@ -16,9 +16,9 @@
             "FFL"
         ],
         "DalamudApiLevel": 6,
-        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
+        "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/icon.png",
         "ImageUrls": [
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/banner.png"
+            "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/banner.png"
         ],
         "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "IsHide": false,
@@ -26,6 +26,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1649916338"
+        "LastUpdate": "1651877299"
     }
 ]
