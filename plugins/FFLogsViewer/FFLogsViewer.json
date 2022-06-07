@@ -2,7 +2,7 @@
   "Author": "Aireil",
   "Name": "FF Logs Viewer",
   "InternalName": "FFLogsViewer",
-  "AssemblyVersion": "2.0.4.3",
+  "AssemblyVersion": "2.0.4.5",
   "Description": "在游戏里查看玩家在FFLogs上的数据的插件。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
@@ -18,6 +18,6 @@
     "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/banner.png"
   ],
   "IconUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer/raw/CN-Ver/res/icon.png",
-  "Punchline": "View FF Logs ranking percentiles in-game.",
-  "Changelog": "- 2.0.4.2: Miscellaneous improvements.\n- 2.0.4.3: Removed always display table setting to avoid crashes.\n      A bit annoying to fix, if you really want the setting back, please open an issue on the GitHub repo."
+  "Punchline": "在游戏里查看玩家在FFLogs上的数据的.",
+  "Changelog": "- 2.0.4.5: Penumbra API + library change for context menu button."
 }
