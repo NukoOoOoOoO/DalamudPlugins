@@ -1,0 +1,12 @@
+{
+  "Author": "sb",
+  "Name": "S怪触发小助手",
+  "InternalName": "RankSSpawnHelper",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0
+}
