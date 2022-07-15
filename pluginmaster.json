@@ -26,17 +26,22 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657876820"
+        "LastUpdate": "1657924826"
     },
     {
         "Author": "sb",
         "Name": "S怪触发小助手",
         "Description": "",
+        "Changelog": "- 1.4: 实现自动扔/拆分物品（仅在湖区/Elips有效）\n- 1.3:\n\t增加自动接/放弃理符的功能\n\t增加自动退本的功能（用于消青魔的debuff）\n\t农怪计数现在支持采集和扔垃圾了\n- 1.2: 增加了小异亚计数的功能 \n- 1.1: 改进农怪计数的逻辑",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.0.3.1",
+        "AssemblyVersion": "1.4.0.0",
         "RepoUrl": "",
         "ApplicableVersion": "any",
-        "Tags": [],
+        "Tags": [
+            "S怪触发",
+            "触发",
+            "S怪"
+        ],
         "DalamudApiLevel": 6,
         "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "IsHide": false,
@@ -44,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657876820"
+        "LastUpdate": "1657924826"
     }
 ]
