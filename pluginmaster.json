@@ -26,14 +26,14 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657854970"
+        "LastUpdate": "1657876820"
     },
     {
         "Author": "sb",
         "Name": "S怪触发小助手",
         "Description": "",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.0.3.0",
+        "AssemblyVersion": "1.0.3.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [],
@@ -44,6 +44,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1657854970"
+        "LastUpdate": "1657876820"
     }
 ]
