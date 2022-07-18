@@ -26,13 +26,13 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1658160816"
+        "LastUpdate": "1658163264"
     },
     {
         "Author": "Nuko",
         "Name": "S怪触发小助手",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "-1.6: 美化UI布局\n\t现在可以在菜单里清除某一计数\n\t现在可以指定可丢掉的物品",
+        "Changelog": "- 1.6.1: 增加了自动点击延迟的滑条\n- 1.6: 美化UI布局\n\t现在可以在菜单里清除某一计数\n\t现在可以指定可丢掉的物品",
         "InternalName": "RankSSpawnHelper",
         "AssemblyVersion": "1.6.0.1",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
@@ -49,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1658160816"
+        "LastUpdate": "1658163264"
     }
 ]
