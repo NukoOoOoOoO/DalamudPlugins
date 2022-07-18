@@ -1,8 +1,8 @@
 {
-  "Author": "芳川音羽触发组专用 / Nuko",
+  "Author": "Nuko",
   "Name": "S怪触发小助手",
   "InternalName": "RankSSpawnHelper",
-  "AssemblyVersion": "1.6.0.0",
+  "AssemblyVersion": "1.6.0.1",
   "Description": "一个触发S怪用的小工具",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
