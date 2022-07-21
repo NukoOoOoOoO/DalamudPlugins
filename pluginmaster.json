@@ -1,5 +1,28 @@
 [
     {
+        "Author": "Nuko",
+        "Name": "S怪触发小助手",
+        "Description": "一个触发S怪用的小工具",
+        "Changelog": "- 1.7: 增加农怪开始时间\n\t现在可以在菜单里(/shelper)增加计数数量了\n- 1.6.1: 增加了自动点击延迟的滑条\n\t增加可扔掉的物品 - 1.6: 美化UI布局\n\t现在可以在菜单里清除某一计数\n\t现在可以指定可丢掉的物品",
+        "InternalName": "RankSSpawnHelper",
+        "AssemblyVersion": "1.7.0.0",
+        "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "S怪触发",
+            "触发",
+            "S怪"
+        ],
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1658363307"
+    },
+    {
         "Author": "Aireil",
         "Name": "FF Logs Viewer",
         "Punchline": "在游戏里查看玩家在FFLogs上的数据的插件。",
@@ -26,29 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1658163264"
-    },
-    {
-        "Author": "Nuko",
-        "Name": "S怪触发小助手",
-        "Description": "一个触发S怪用的小工具",
-        "Changelog": "- 1.6.1: 增加了自动点击延迟的滑条\n- 1.6: 美化UI布局\n\t现在可以在菜单里清除某一计数\n\t现在可以指定可丢掉的物品",
-        "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.6.0.1",
-        "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "S怪触发",
-            "触发",
-            "S怪"
-        ],
-        "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1658163264"
+        "LastUpdate": "1658363307"
     }
 ]
