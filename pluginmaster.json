@@ -3,9 +3,9 @@
         "Author": "Nuko",
         "Name": "S怪触发小助手",
         "Description": "一个触发S怪用的小工具",
-        "Changelog": "- 1.7: 增加农怪开始时间\n\t现在可以在菜单里(/shelper)增加计数数量了\n- 1.6.1: 增加了自动点击延迟的滑条\n\t增加可扔掉的物品 - 1.6: 美化UI布局\n\t现在可以在菜单里清除某一计数\n\t现在可以指定可丢掉的物品",
+        "Changelog": "- 1.7.1: 支持MarketBoard插件(虽然用的是比较蠢的方法，但能用就行)\n\t尝试修复小异亚计数器会抛出异常的问题\n- 1.7: 增加农怪开始时间\n\t现在可以在菜单里(/shelper)增加计数数量了",
         "InternalName": "RankSSpawnHelper",
-        "AssemblyVersion": "1.7.0.0",
+        "AssemblyVersion": "1.7.1.0",
         "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/RankSSpawnHelper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1658363307"
+        "LastUpdate": "1658446897"
     },
     {
         "Author": "Aireil",
@@ -49,6 +49,6 @@
         "DownloadLinkTesting": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NukoOoOoOoO/DalamudPlugins/raw/dev/plugins/FFLogsViewer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1658363307"
+        "LastUpdate": "1658446897"
     }
 ]
