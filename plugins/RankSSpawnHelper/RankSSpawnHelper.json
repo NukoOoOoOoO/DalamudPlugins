@@ -2,7 +2,7 @@
   "Author": "Nuko",
   "Name": "S怪触发小助手",
   "InternalName": "RankSSpawnHelper",
-  "AssemblyVersion": "1.7.1.0",
+  "AssemblyVersion": "1.7.1.1",
   "Description": "一个触发S怪用的小工具",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NukoOoOoOoO/RankSSpawnHelper",
@@ -13,5 +13,5 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Changelog": "- 1.7.1: 支持MarketBoard插件(虽然用的是比较蠢的方法，但能用就行)\n\t尝试修复小异亚计数器会抛出异常的问题\n- 1.7: 增加农怪开始时间\n\t现在可以在菜单里(/shelper)增加计数数量了"
+  "Changelog": "- 1.7.1.1: 修复了一个小错误\n- 1.7.1: 支持MarketBoard插件(虽然用的是比较蠢的方法，但能用就行)\n\t尝试修复小异亚计数器会抛出异常的问题\n- 1.7: 增加农怪开始时间\n\t现在可以在菜单里(/shelper)增加计数数量了"
 }
